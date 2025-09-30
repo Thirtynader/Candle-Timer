@@ -155,11 +155,12 @@ The indicator is set to be non-selectable and hidden from object lists to preven
 
 ## Download
 
-....
+[Thirtynader-Candle Timer](https://github.com/Thirtynader/Candle-Timer/releases)
 
 ## Preview
 
-
+![Thirtynader-Candle Timer preview](https://github.com/Thirtynader/Candle-Timer/blob/main/TCT1.png)
+![Thirtynader-Candle Timer](https://github.com/Thirtynader/Candle-Timer/blob/main/TCT1.png)
 
 ## Credits
 
