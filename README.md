@@ -160,7 +160,7 @@ The indicator is set to be non-selectable and hidden from object lists to preven
 ## Preview
 
 ![Thirtynader-Candle Timer preview](https://github.com/Thirtynader/Candle-Timer/blob/main/TCT1.png)
-![Thirtynader-Candle Timer](https://github.com/Thirtynader/Candle-Timer/blob/main/TCT1.png)
+![Thirtynader-Candle Timer](https://github.com/Thirtynader/Candle-Timer/blob/main/TCT2.png)
 
 ## Credits
 
